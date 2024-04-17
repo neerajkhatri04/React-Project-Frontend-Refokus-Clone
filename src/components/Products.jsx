@@ -99,7 +99,7 @@ const Products = () => {
           >
             <video
               className="h-full w-full object-cover"
-              src="\src\assets\v1.mp4"
+              src="v1.mp4"
               autoPlay
               muted
               loop
@@ -112,7 +112,7 @@ const Products = () => {
           >
             <video
               className="h-full w-full object-cover"
-              src="\src\assets\v2.mp4"
+              src="v2.mp4"
               autoPlay
               muted
               loop
@@ -125,7 +125,7 @@ const Products = () => {
           >
             <video
               className="h-full w-full object-cover"
-              src="\src\assets\v3.mp4"
+              src="v3.mp4"
               autoPlay
               muted
               loop
@@ -138,7 +138,7 @@ const Products = () => {
           >
             <video
               className="h-full w-full object-cover"
-              src="\src\assets\v4.mp4"
+              src="v4.mp4"
               autoPlay
               muted
               loop
@@ -151,7 +151,7 @@ const Products = () => {
           >
             <video
               className="h-full w-full object-cover"
-              src="\src\assets\v5.mp4"
+              src="v5.mp4"
               autoPlay
               muted
               loop
@@ -164,7 +164,7 @@ const Products = () => {
           >
             <video
               className="h-full w-full object-cover"
-              src="\src\assets\v6.mp4"
+              src="v6.mp4"
               autoPlay
               muted
               loop
@@ -177,7 +177,7 @@ const Products = () => {
           >
             <video
               className="h-full w-full object-cover"
-              src="\src\assets\v7.mp4"
+              src="v7.mp4"
               autoPlay
               muted
               loop
@@ -190,7 +190,7 @@ const Products = () => {
           >
             <video
               className="h-full w-full object-cover"
-              src="\src\assets\v8.mp4"
+              src="v8.mp4"
               autoPlay
               muted
               loop
