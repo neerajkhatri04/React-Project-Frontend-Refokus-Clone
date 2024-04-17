@@ -29,4 +29,4 @@ This project is a clone of the Refokus website, built using React for the fronte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/refokus-clone.git
+   git clone https://github.com/neerajkhatri04/React-Project-Frontend-Refokus-Clone.git
